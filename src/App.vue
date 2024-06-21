@@ -3,7 +3,7 @@
 </script>
 
 <template>
-<h1>vue app</h1>
+<h1 class="text-red-500">vue app</h1>
 <RouterView></RouterView>
 </template>
 
